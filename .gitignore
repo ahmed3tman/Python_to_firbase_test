@@ -1,0 +1,7 @@
+# Ignore Firebase service account key
+spider-doctor-firebase-adminsdk-fbsvc-aec2e00c74.json
+
+# Python related
+__pycache__/
+.venv/
+*.pyc
